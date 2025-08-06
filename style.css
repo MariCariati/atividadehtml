@@ -1,0 +1,42 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+    background-color: #FFFBDE;
+}
+.cabecalho{
+    padding: 35px;
+    background-color: #4682A9;
+}
+.links_cabecalho{
+    text-decoration: none;
+    color: #91C8E4;
+}
+.links_cabecalho:hover{
+    color: white;
+}
+#espacamento_link{
+    margin: 0 100px;
+}
+#link_topo{
+    text-decoration: none;
+    color: #4682A9;
+}
+#link_topo:hover{
+    color: #749BC2;
+}
+.conteudo_titulo{
+    color: rgb(96, 125, 153);
+}
+.conteudo_texto{
+    margin: 15px 25px;
+    color: #749BC2;
+}
+.rodape{
+    padding: 20px;
+    background-color: #4682A9;
+    margin-top: 20px;
+}
+.rodape_autoras{
+    color: #91C8E4;
+    padding-top: 9px;
+}
